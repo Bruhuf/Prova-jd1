@@ -5,4 +5,4 @@ A log-verossimilhança para o modelo espacial linear t-Student é dado por
 
    $L(\theta)=log(K_{n}(\eta))-\frac{1}{2}log|E|-\frac{1}{2n}(1+{n}\eta)log(1+c(n)\delta)$,
 
-   **com** $log(K_(\eta))=\frac{n}{2}log(\frac{c(\eta)}{n})$
+   **com** $log(K_(\eta))=\frac{n}{2}log(\frac{c(\eta)}{\Pi})$
