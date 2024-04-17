@@ -6,3 +6,4 @@ A log-verossimilhança para o modelo espacial linear t-Student é dado por
    $L(\theta)=log(K_{n}(\eta))-\frac{1}{2}log|\Sigma|-\frac{1}{2n}(1+{n}\eta)log(1+c(n)\delta)$,
 
    **com** $log(K_(\eta))=\frac{n}{2}log(\frac{c(\eta)}{\Pi})+log\Gamma(\frac{1}{2\eta}),\delta=(\boldsymbol{Y}-\boldsymbol{X}\beta)^T\Sigma^{-1} (\boldsymbol{Y}-\boldsymbol{X}\beta)$
+ 
